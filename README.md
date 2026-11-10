@@ -23,3 +23,9 @@ My first repository
 > "With great power comes great responsibility."
 
 **Overall:** This movie is entertaining and meaningful. I would recommend it to people who enjoy superhero movies.
+
+### My Favorite Scene
+
+My favorite scene is when Spider-Man works together with other heroes to save the world.
+
+**Rating:** 10/10
